@@ -1,4 +1,4 @@
-# Step-Up-Shoes-
+# Step-Up-Shoes------Online footware ordering webpage
 
 Step Up Shoes – Online Footwear Ordering Web Application
 
